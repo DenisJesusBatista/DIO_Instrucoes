@@ -1,0 +1,7 @@
+C:\DigitalInnovationOne\02-INSTRUCOES\Instrucoes\Instrucoes\bin\Debug\Instrucoes.exe.config
+C:\DigitalInnovationOne\02-INSTRUCOES\Instrucoes\Instrucoes\bin\Debug\Instrucoes.exe
+C:\DigitalInnovationOne\02-INSTRUCOES\Instrucoes\Instrucoes\bin\Debug\Instrucoes.pdb
+C:\DigitalInnovationOne\02-INSTRUCOES\Instrucoes\Instrucoes\obj\Debug\Instrucoes.csprojAssemblyReference.cache
+C:\DigitalInnovationOne\02-INSTRUCOES\Instrucoes\Instrucoes\obj\Debug\Instrucoes.csproj.CoreCompileInputs.cache
+C:\DigitalInnovationOne\02-INSTRUCOES\Instrucoes\Instrucoes\obj\Debug\Instrucoes.exe
+C:\DigitalInnovationOne\02-INSTRUCOES\Instrucoes\Instrucoes\obj\Debug\Instrucoes.pdb
